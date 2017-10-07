@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "565316857325",
+    "firebase_url": "https://assassin-e11dd.firebaseio.com",
+    "project_id": "assassin-e11dd",
+    "storage_bucket": "assassin-e11dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565316857325:android:07cdfbd639f198e8",
+        "android_client_info": {
+          "package_name": "com.games.chibi.assassin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565316857325-gmae19sobunjkoa7ovj76hej1mn0rpr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFOaGRJNnAo8k9qwXuOM1fJmT4OixqxCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
